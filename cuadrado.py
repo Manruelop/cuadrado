@@ -1,7 +1,3 @@
-class cuadrado:
-	def __init__(self, x, y):
-		self.x = x
-		self.y = y
-
-	def area(self):
-		return self.x * self.y
+def devuelve_cero(arg):  
+    """Esto es una funciÃ³n documentada"""
+    return 0
